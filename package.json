@@ -1,0 +1,16 @@
+{
+  "name": "normalize.styl",
+  "version": "3.0.2",
+  "description": "Normalize.styl as a node packaged module",
+  "style": "normalize.css",
+  "files": [
+    "normalize.css"
+  ],
+  "homepage": "http://github.com/Creampuff/normalize.styl",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Creampuff/normalize.styl.git"
+  },
+  "author": "Shota Shimazu",
+  "license": "MIT"
+}
